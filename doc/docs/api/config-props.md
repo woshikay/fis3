@@ -272,7 +272,7 @@ fis.match('/mod.js', {
 
 #### isJsLike
 * 解释：指定对文件进行 [js](../user-dev/extlang.md#js) 相关的语言能力处理
-* 值类型：`string`
+* 值类型：`bool`
 * 默认值：无
 
 #### useHash
